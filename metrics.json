@@ -1,0 +1,9 @@
+{
+  "age_utkface_validation_mae_years": 4.29827880859375,
+  "age_utkface_validation_rmse_years": 6.422457406395382,
+  "yolo_precision": 0.8151753247198483,
+  "yolo_recall": 0.5304213483146067,
+  "yolo_map50": 0.606992240837088,
+  "yolo_map50_95": 0.31532284133212823,
+  "fairface_age_interval_agreement_percent": 42.9
+}
